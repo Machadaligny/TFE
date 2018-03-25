@@ -1,0 +1,91 @@
+body{
+    background-color: black;
+    color:rgb(124, 122, 133)
+}
+table{
+    display:block;
+    width:100%;
+}
+th{
+    display:block;
+    width:50%;
+}
+#titre{
+    color:rgb(124, 122, 133);
+    text-align: center;
+    text-shadow: 1px 1px lightseagreen;
+    text-decoration: overline;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 2.5em;
+    
+}
+img{
+    display:block;
+    width:25em;
+    margin:1cm 1cm 0 0.5cm;
+    
+}
+textarea{
+    display:block;
+    
+    margin:1cm 0 0 0.5cm;
+    
+}
+
+
+text{
+    display:block;
+    width:50%;
+    font-size: 2.5em;
+    margin:0 0 0 0.5cm;
+    
+}
+#real{
+    
+    font-size: 1.5em;
+    
+    text-align: right;
+}
+#description{
+    border-style:solid;
+    border-width: 1px;
+    border-color: rgb(124, 122, 133);
+    background-color: rgb(124, 122, 133);
+    color:black;
+    width: 100%;
+    padding:5px;
+    text-align: justify;
+}
+
+
+#url{
+    display:inline-block;
+    float: right;
+    font-size: 0.8em;
+    /* color:rgb(124, 122, 133); */
+    color:black;
+    text-decoration: none;
+    width:200px;
+    border:2px solid black;
+    /* border:2px solid rgb(124, 122, 133); */
+    text-align:right;
+    
+}
+#commentaire{
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    background-color: rgb(124, 122, 133);
+    color:black;
+    width: 100%;
+    padding:5px;
+    text-align: justify;
+}
+nav{
+    font-size: 1em;
+    display:block;
+    width:5%;
+    margin:1cm 1cm 0 0.5cm;
+    color:white;
+    background-color: rgb(124, 122, 133);
+}
